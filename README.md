@@ -9,6 +9,9 @@
 
 # the **Web Server** handles and serves these, respectfully
 
+# Static files versus, what, Dynamic files
+separation of concern for these file types - Django has different ways of serving these file types
+
 
 # Routing
 
