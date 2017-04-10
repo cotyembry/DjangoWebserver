@@ -21,6 +21,7 @@ def index(request):
 
 	html = "<html>\
 				<body>\
+					<div id=\"App\"></div>\
 					<script src=\"http://rawgit.com/cotyembry/DjangoWebserver/master/simpleWebsite/App1/templates/index.html\"></script>\
 				</body>\
 			</html>"

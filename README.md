@@ -29,15 +29,6 @@ separation of concern for these file types - Django has different ways of servin
 
 
 
-
-
-
-
-
-
-
-
-
 # Django installation
 make sure django is installed
 from the command line do
@@ -296,3 +287,32 @@ this creates other problems like
 
 -namespacing - for multiple websites? that could be messy
 -subdomain? but those are 'ugly' and possibly 'unprofessional'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# link raw github code in a static response template
+see the following stackoverflow question for help
+
+http://stackoverflow.com/questions/17341122/link-and-execute-external-javascript-file-hosted-on-github
+
+
+
+
+
