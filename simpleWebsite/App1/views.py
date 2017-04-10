@@ -18,11 +18,12 @@ def index(request):
 
 
 					# <script src=\"https://raw.githubusercontent.com/cotyembry/DjangoWebserver/master/simpleWebsite/App1/templates/index.html\"></script>\
+					# <script src=\"http://rawgit.com/cotyembry/DjangoWebserver/master/simpleWebsite/App1/templates/index.html\"></script>\
 
 	html = "<html>\
 				<body>\
 					<div id=\"App\"></div>\
-					<script src=\"http://rawgit.com/cotyembry/DjangoWebserver/master/simpleWebsite/App1/templates/index.html\"></script>\
+					<script src=\"https://rawgit.com/cotyembry/DjangoWebserver/master/simpleWebsite/App1/js/dist/bundle.js\"></script>\
 				</body>\
 			</html>"
 
